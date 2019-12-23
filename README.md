@@ -1,9 +1,10 @@
 
-# 이태균 포트폴리오 프로젝트
-Foobar is a Python library for dealing with word pluralization.
+# 이태균 웹개발 포트폴리오
+
+별거없어요 ㅎㅎㅎㅎ
 
 > 간단한 소개문구
 
-#### 오늘은 태균이 포트폴리오보는날 :rainbow:
+#### 나랑 무지개 보러갈래? :rainbow:
 
 
