@@ -3,7 +3,7 @@
 
 별거없어요 ㅎㅎㅎㅎ
 ## Installation
-
+연락은 [mail](baeklyun@naver.com)로 보내주세요!
 ```bash
   sudo im admin hhhhhhhh
 ```
