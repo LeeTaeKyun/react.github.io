@@ -5,7 +5,7 @@
 ## Installation
 
 ```bash
-pip install foobar
+  sudo im admin hhhhhhhh
 ```
 
 
